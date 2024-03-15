@@ -21,7 +21,7 @@ class TestCandidateFeature(BaseTest):
         self.candidate_edit_page.change_firstname(f"Test {random.randint(1, 100)}")
         self.candidate_edit_page.save_changes()
         self.candidate_edit_page.is_change_saved()
-        self.candidate_edit_page.make_screenshot("Success_screenshot")
+        self.candidate_edit_page.make_screenshot("Success_screenshots")
 
 
 
