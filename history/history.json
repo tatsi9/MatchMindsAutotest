@@ -2,13 +2,22 @@
   "ddcd0b724add343b9a3e5640a2cf46db" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 2,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "f6e4e4e9f25a37d3",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Data' object has no attribute 'EMAI'. Did you mean: 'EMAIL'?",
+      "time" : {
+        "start" : 1710506458778,
+        "stop" : 1710506460487,
+        "duration" : 1709
+      }
+    }, {
       "uid" : "3b624d80a5fdee3a",
       "status" : "passed",
       "time" : {
