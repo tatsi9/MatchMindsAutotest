@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "feature_candidate_edit_test",
+      "children" : [ {
+        "name" : "TestCandidateFeature",
+        "children" : [ {
+          "name" : "Change profile name",
+          "uid" : "85ff86bdf8f793b1",
+          "parentUid" : "ba74966ab0aed5a24ec2868607dd1c49",
+          "status" : "passed",
+          "time" : {
+            "start" : 1710492963487,
+            "stop" : 1710492969499,
+            "duration" : 6012
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ba74966ab0aed5a24ec2868607dd1c49"
+      } ],
+      "uid" : "4fd05307e6c45e998869c4f1baa6ab6b"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ],
+  "name" : "suites"
+}
