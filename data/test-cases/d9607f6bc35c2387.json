@@ -1,5 +1,5 @@
 {
-  "uid" : "85ff86bdf8f793b1",
+  "uid" : "d9607f6bc35c2387",
   "name" : "Change profile name",
   "fullName" : "tests.feature_candidate_edit_test.TestCandidateFeature#test_change_firstname",
   "historyId" : "ddcd0b724add343b9a3e5640a2cf46db",
@@ -202,9 +202,9 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "c81d96700433c901",
+      "uid" : "678c9c75eeb6915f",
       "name" : "Success_screenshot",
-      "source" : "c81d96700433c901.png",
+      "source" : "678c9c75eeb6915f.png",
       "type" : "image/png",
       "size" : 194692
     } ],
@@ -274,7 +274,7 @@
   "extra" : {
     "severity" : "critical",
     "retries" : [ {
-      "uid" : "820c18e4a2f9e401",
+      "uid" : "6a143bc0dccc44fa",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
       "time" : {
@@ -286,6 +286,6 @@
     "categories" : [ ],
     "tags" : [ "smoke" ]
   },
-  "source" : "85ff86bdf8f793b1.json",
+  "source" : "d9607f6bc35c2387.json",
   "parameterValues" : [ ]
 }

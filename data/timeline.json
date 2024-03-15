@@ -6,26 +6,26 @@
       "name" : "1-MainThread",
       "children" : [ {
         "name" : "Change profile name",
-        "uid" : "85ff86bdf8f793b1",
-        "parentUid" : "30d5af59223df8c557261513f52c0ede",
-        "status" : "passed",
-        "time" : {
-          "start" : 1710492963487,
-          "stop" : 1710492969499,
-          "duration" : 6012
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Change profile name",
-        "uid" : "820c18e4a2f9e401",
+        "uid" : "6a143bc0dccc44fa",
         "parentUid" : "30d5af59223df8c557261513f52c0ede",
         "status" : "broken",
         "time" : {
           "start" : 1710492748888,
           "stop" : 1710492761407,
           "duration" : 12519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Change profile name",
+        "uid" : "d9607f6bc35c2387",
+        "parentUid" : "30d5af59223df8c557261513f52c0ede",
+        "status" : "passed",
+        "time" : {
+          "start" : 1710492963487,
+          "stop" : 1710492969499,
+          "duration" : 6012
         },
         "flaky" : false,
         "newFailed" : false,

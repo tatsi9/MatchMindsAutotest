@@ -8,7 +8,7 @@
         "name" : "TestCandidateFeature",
         "children" : [ {
           "name" : "Change profile name",
-          "uid" : "85ff86bdf8f793b1",
+          "uid" : "d9607f6bc35c2387",
           "parentUid" : "ba74966ab0aed5a24ec2868607dd1c49",
           "status" : "passed",
           "time" : {

@@ -1,5 +1,5 @@
 {
-  "uid" : "820c18e4a2f9e401",
+  "uid" : "6a143bc0dccc44fa",
   "name" : "Change profile name",
   "fullName" : "tests.feature_candidate_edit_test.TestCandidateFeature#test_change_firstname",
   "historyId" : "ddcd0b724add343b9a3e5640a2cf46db",
@@ -200,6 +200,6 @@
     "categories" : [ ],
     "tags" : [ "smoke" ]
   },
-  "source" : "820c18e4a2f9e401.json",
+  "source" : "6a143bc0dccc44fa.json",
   "parameterValues" : [ ]
 }
