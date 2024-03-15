@@ -1,44 +1,44 @@
 {
-  "uid" : "dd937364258cdcfe",
+  "uid" : "f1e4d010c979e47d",
   "name" : "Change profile name",
   "fullName" : "tests.feature_candidate_edit_test.TestCandidateFeature#test_change_firstname",
   "historyId" : "ddcd0b724add343b9a3e5640a2cf46db",
   "time" : {
-    "start" : 1710492963487,
-    "stop" : 1710492969499,
-    "duration" : 6012
+    "start" : 1710506137649,
+    "stop" : 1710506142985,
+    "duration" : 5336
   },
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
-    "name" : "driver",
-    "time" : {
-      "start" : 1710492962907,
-      "stop" : 1710492963486,
-      "duration" : 579
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
-  }, {
     "name" : "setup",
     "time" : {
-      "start" : 1710492963486,
-      "stop" : 1710492963486,
+      "start" : 1710506137649,
+      "stop" : 1710506137649,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
     "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "driver",
+    "time" : {
+      "start" : 1710506137274,
+      "stop" : 1710506137649,
+      "duration" : 375
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false
   } ],
@@ -47,24 +47,24 @@
     "steps" : [ {
       "name" : "Open https://matchminds.club/auth/login page",
       "time" : {
-        "start" : 1710492963487,
-        "stop" : 1710492965413,
-        "duration" : 1926
+        "start" : 1710506137649,
+        "stop" : 1710506139387,
+        "duration" : 1738
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Enter email",
       "time" : {
-        "start" : 1710492965413,
-        "stop" : 1710492965561,
-        "duration" : 148
+        "start" : 1710506139387,
+        "stop" : 1710506139466,
+        "duration" : 79
       },
       "status" : "passed",
       "steps" : [ ],
@@ -73,16 +73,16 @@
         "name" : "email",
         "value" : "'tatsi9it@yandex.ru'"
       } ],
-      "stepsCount" : 0,
       "hasContent" : true,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Enter password",
       "time" : {
-        "start" : 1710492965561,
-        "stop" : 1710492965673,
-        "duration" : 112
+        "start" : 1710506139466,
+        "stop" : 1710506139526,
+        "duration" : 60
       },
       "status" : "passed",
       "steps" : [ ],
@@ -91,151 +91,151 @@
         "name" : "password",
         "value" : "'4r5t6yhgf'"
       } ],
-      "stepsCount" : 0,
       "hasContent" : true,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Click Login button",
       "time" : {
-        "start" : 1710492965673,
-        "stop" : 1710492965745,
-        "duration" : 72
+        "start" : 1710506139526,
+        "stop" : 1710506139570,
+        "duration" : 44
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Page https://matchminds.club/candidate/32 is opened",
       "time" : {
-        "start" : 1710492965745,
-        "stop" : 1710492966757,
-        "duration" : 1012
+        "start" : 1710506139571,
+        "stop" : 1710506141579,
+        "duration" : 2008
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Click 'Edit profile' link",
       "time" : {
-        "start" : 1710492966757,
-        "stop" : 1710492967880,
-        "duration" : 1123
+        "start" : 1710506141579,
+        "stop" : 1710506141624,
+        "duration" : 45
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Page https://matchminds.club/candidate/32/edit is opened",
       "time" : {
-        "start" : 1710492967880,
-        "stop" : 1710492968905,
-        "duration" : 1025
+        "start" : 1710506141624,
+        "stop" : 1710506142629,
+        "duration" : 1005
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
-      "name" : "Change firstname on Test 88",
+      "name" : "Change firstname on Test 3",
       "time" : {
-        "start" : 1710492968905,
-        "stop" : 1710492969063,
-        "duration" : 158
+        "start" : 1710506142629,
+        "stop" : 1710506142711,
+        "duration" : 82
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Save changes",
       "time" : {
-        "start" : 1710492969063,
-        "stop" : 1710492969186,
-        "duration" : 123
+        "start" : 1710506142711,
+        "stop" : 1710506142767,
+        "duration" : 56
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "Changes have been successfully",
       "time" : {
-        "start" : 1710492969186,
-        "stop" : 1710492969211,
-        "duration" : 25
+        "start" : 1710506142767,
+        "stop" : 1710506142777,
+        "duration" : 10
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "hasContent" : false,
+      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     } ],
     "attachments" : [ {
-      "uid" : "8de8037f7bfb9657",
-      "name" : "Success_screenshot",
-      "source" : "8de8037f7bfb9657.png",
+      "uid" : "2bf057272679fbb7",
+      "name" : "Success_screenshots",
+      "source" : "2bf057272679fbb7.png",
       "type" : "image/png",
-      "size" : 194692
+      "size" : 193240
     } ],
     "parameters" : [ ],
-    "stepsCount" : 10,
     "hasContent" : true,
+    "stepsCount" : 10,
     "attachmentsCount" : 1,
     "shouldDisplayMessage" : false
   },
   "afterStages" : [ {
     "name" : "driver::0",
     "time" : {
-      "start" : 1710492969504,
-      "stop" : 1710492969619,
-      "duration" : 115
+      "start" : 1710506142986,
+      "stop" : 1710506143072,
+      "duration" : 86
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
     "hasContent" : false,
+    "stepsCount" : 0,
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false
   } ],
   "labels" : [ {
-    "name" : "feature",
-    "value" : "Profile functionality"
-  }, {
     "name" : "severity",
     "value" : "Critical"
+  }, {
+    "name" : "feature",
+    "value" : "Profile functionality"
   }, {
     "name" : "tag",
     "value" : "smoke"
@@ -250,7 +250,7 @@
     "value" : "TestCandidateFeature"
   }, {
     "name" : "host",
-    "value" : "3b226c53dbcc"
+    "value" : "474aa4efe1f5"
   }, {
     "name" : "thread",
     "value" : "1-MainThread"
@@ -273,19 +273,29 @@
   "retry" : false,
   "extra" : {
     "severity" : "critical",
-    "retries" : [ {
-      "uid" : "97e4300d044d1a2d",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
-      "time" : {
-        "start" : 1710492748888,
-        "stop" : 1710492761407,
-        "duration" : 12519
-      }
-    } ],
+    "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "dd937364258cdcfe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1710492963487,
+          "stop" : 1710492969499,
+          "duration" : 6012
+        }
+      } ]
+    },
     "tags" : [ "smoke" ]
   },
-  "source" : "dd937364258cdcfe.json",
+  "source" : "f1e4d010c979e47d.json",
   "parameterValues" : [ ]
 }
