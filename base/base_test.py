@@ -1,4 +1,5 @@
 import pytest
+import allure
 from config.data import Data
 from pages.login_page import LoginPage
 from pages.candidate_page import CandidatePage
