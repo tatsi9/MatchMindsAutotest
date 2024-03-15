@@ -1,6 +1,6 @@
 name: UI Tests
 
-on: workflow_dispatch
+on: workflow_dispatch # было [push] - по триггеру
 
 jobs:
   ui-tests:
@@ -25,7 +25,7 @@ jobs:
       - name: Copy history from gh-pages to allure-results
         run: |
           sudo mkdir -p allure-results/history 
-          sudo cp -R ./.github/gh-pages/history/* allure/results/history/
+          sudo cp -R ./.github/gh-pages/history/* allure-results/history/
 
       - name: Generate Allure report
         run: |
