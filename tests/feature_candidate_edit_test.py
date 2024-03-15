@@ -12,7 +12,7 @@ class TestCandidateFeature(BaseTest):
     @pytest.mark.smoke
     def test_change_firstname(self):
         self.login_page.open(self)
-        self.login_page.enter_email(self.data.EMAIL)
+        self.login_page.enter_email(self.data.EMAI)
         self.login_page.enter_password(self.data.PASSWORD)
         self.login_page.click_login_submit_button()
         self.candidate_page.is_opened()
